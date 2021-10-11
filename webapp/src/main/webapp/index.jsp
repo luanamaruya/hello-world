@@ -1,4 +1,4 @@
-<h1> Welcome to Valaxy Technologies </h1>
-<h2> Steup and deploy using jenkins </h2>
+<h1>TechUp-Projects Pipeline Realiada com Sucesso</h1>
+<h2>Metodo: Pipeline as a code.</h2>
 
 
