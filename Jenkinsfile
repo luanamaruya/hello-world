@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage("clone code"){
             steps{
-               git credentialsId: 'git_credentials', url: 'https://github.com/luanamaruya/helloworld'
+               git credentialsId: 'git_credentials', url: 'https://github.com/luanamaruya/hello-world'
             }
         }
         stage("build code"){
