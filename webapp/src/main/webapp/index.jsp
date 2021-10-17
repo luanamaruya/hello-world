@@ -1,6 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,7 +16,7 @@ body{
 	
 	<h2>Relatorio De Atividades</h2>
 
-	 <form:form action="register" method="post" modelAttribute="user">
+	 <form:form action="user.jsp" method="get">
 	 
 	 	<div>
 			<label>Nome</label>
